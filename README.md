@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AsMetOP/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AsMetOP/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AsMetOP/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -22,4 +24,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AsMetOP/leetcode-submissions/tree/master/0011-container-with-most-water) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
