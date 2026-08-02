@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AsMetOP/leetcode-submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AsMetOP/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AsMetOP/leetcode-submissions/tree/master/0075-sort-colors) |
 | [0912-sort-an-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AsMetOP/leetcode-submissions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/AsMetOP/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/AsMetOP/leetcode-submissions/tree/master/0075-sort-colors) |
 ## Greedy
 |  |
